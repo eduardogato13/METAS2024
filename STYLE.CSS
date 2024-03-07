@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Kode+Mono:wght@400..700&display=swap');
+
+body {
+    background: linear-gradient(#03ffc8 font-family:kode mono;
+    }
+
+    h1 {
+        font-size: 50px;
+        font-family: kode mono;
+    }
+
+    h2 {
+        font-size: 42px;
+    }
+
+    h3 {
+        font-size: 35px;
+    }
+
+    h4 {
+        font-size: 30px;
+    }
