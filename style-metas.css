@@ -1,6 +1,6 @@
 :root {
-    --cor-de-fundo: #19b42b;
-    --roxo: #d557ff;
+    --cor-de-fundo: #1a44b6;
+    --roxo: #382a3d;
     --branco: #FFFFFF;
     --botao-ativo: #3A375E;
     --botao-inativo: #3a375e80;
@@ -40,7 +40,7 @@ body {
     color: var(--branco);
     display: flex;
     justify-content: center;
-    padding: 1em;
+    padding: 1em;https://github.com/eduardogato13/METAS2024.git
     font-size: 18px;
     align-items: center;
     width: 100%;
